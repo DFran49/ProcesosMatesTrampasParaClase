@@ -1,4 +1,4 @@
-Operaciones de una serie aritmética.
+------Operaciones de una serie aritmética.
 
 Operaciones de una serie geométrica.
 
