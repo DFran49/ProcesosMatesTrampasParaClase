@@ -1,15 +1,8 @@
-1. Multiplicaciones y Divisiones Especiales
-Factorial de un número grande con optimización.
-División de polinomios.
 2.Calculos de matrizes
 Suma
 Resta
 division
 multiplicacion
-7. Geometría y Trigonometría
-Producto escalar entre dos vectores.
-Producto cruzado entre dos vectores en 3D.
-Distancia entre dos puntos en el espacio 3D.
-Intersección entre dos rectas o entre una recta y un plano.
-Área de un polígono usando la fórmula del polígono simple.
-Transformaciones afines (traslación, rotación, escalado de puntos en 2D y 3D).
+determinante
+inversa
+Operaciones de segundo grado
