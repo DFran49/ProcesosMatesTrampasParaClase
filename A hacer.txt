@@ -1,0 +1,45 @@
+1. Sumas y Restas Compuestas
+Suma de una serie aritmética.
+Suma de una serie geométrica.
+Suma de los primeros n números primos.
+Suma de los primeros n números de Fibonacci.
+Suma alternante de una serie (sumar y restar términos consecutivos).
+Diferencia entre la suma de los cuadrados y el cuadrado de la suma de los primeros 
+n números.
+
+2. Multiplicaciones y Divisiones Especiales
+Producto de matrices.
+Producto escalar entre dos vectores.
+Producto cruzado entre dos vectores en 3D.
+Factorial de un número grande con optimización.
+División de polinomios.
+
+3. Potencias y Logaritmos
+Potencia de una matriz.
+Cálculo de raíces con el método de Newton-Raphson.
+Logaritmo de un número en una base arbitraria.
+Exponenciación rápida (algoritmo de exponenciación modular).
+
+4. Cálculo y Análisis Matemático
+Derivadas de funciones polinómicas.
+Integración numérica (método del trapecio o de Simpson).
+Búsqueda de raíces de una función con bisección o Newton-Raphson.
+
+5. Álgebra y Teoría de Números
+Algoritmo de Euclides para el máximo común divisor (MCD).
+Algoritmo extendido de Euclides para encontrar coeficientes de Bézout.
+Criba de Eratóstenes para encontrar números primos.
+Descomposición en factores primos de un número.
+Cálculo del mínimo común múltiplo (MCM).
+
+6. Probabilidad y Estadística
+Media, mediana y moda de una lista de números.
+Desviación estándar y varianza.
+Distribución binomial y distribución de Poisson.
+Generación de números aleatorios con distribución normal.
+
+7. Geometría y Trigonometría
+Distancia entre dos puntos en el espacio 3D.
+Intersección entre dos rectas o entre una recta y un plano.
+Área de un polígono usando la fórmula del polígono simple.
+Transformaciones afines (traslación, rotación, escalado de puntos en 2D y 3D).
