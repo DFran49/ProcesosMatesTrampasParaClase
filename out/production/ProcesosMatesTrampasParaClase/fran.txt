@@ -1,0 +1,16 @@
+------Operaciones de una serie aritmética.
+
+Operaciones de una serie geométrica.
+
+Cálculo de secuencias (pi, fibo, etc)
+
+Exponenciación rápida (algoritmo de exponenciación modular).
+
+Cálculo del mínimo común múltiplo (MCM).
+
+Media, mediana y moda de una lista de números.
+
+series exponenciales
+factoriales
+
+Operaciones de polinomios.
